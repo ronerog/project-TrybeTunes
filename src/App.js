@@ -9,22 +9,6 @@ import ProfileEdit from './pages/ProfileEdit';
 import NotFound from './pages/NotFound';
 
 class App extends React.Component {
-  // constructor() {
-  //   super();
-  //   this.state = {
-  //     name: '',
-  //   };
-  //   console.log('chamei o constructor');
-  // }
-
-  // componentDidMount() {
-  //   console.log('chamei o did mount');
-  // }
-
-  // componentDidUpdate() {
-  //   console.log('chamei o did update');
-  // }
-
   render() {
     return (
       <main>
