@@ -44,7 +44,7 @@ class App extends React.Component {
             component={ ProfileEdit }
           />
           <Route
-            path="/"
+            path="*"
             component={ NotFound }
           />
         </Switch>
